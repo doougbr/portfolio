@@ -1,4 +1,5 @@
 # Data Analyst  
+**Technical Skills: Power BI, SQL, AWS, Python**
 
 My medium articles about data analysis, business tips and other stuff: https://medium.com/@douglasbittencourt
 
@@ -35,18 +36,13 @@ studies to identify opportunities.
 
 # Education
 
-**UNIP - Campinas, São Paulo, BR**
+Associate Degree in Software Analysis and Development (2020 - 2022) | **UNIP - Campinas, São Paulo, BR**
 
-Associate Degree in Software Analysis and Development (2020 - 2022)
+Graduate Course in Neuromarketing · (2016 - 2017) | **INOVA BUSINESS SCHOOL - Campinas, São Paulo, BR**
 
-**INOVA BUSINESS SCHOOL - Campinas, São Paulo, BR**
+Degree in Business Administration with a concentration in Marketing (2012 - 2016) | **ESAMC - Campinas, São Paulo, BR**
 
-Graduate Course in Neuromarketing · (2016 - 2017)
-
-**ESAMC - Campinas, São Paulo, BR**
-
-Degree in Business Administration with a concentration in Marketing (2012 - 2016)
-
+# Projects
 
 
 
