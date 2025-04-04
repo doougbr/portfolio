@@ -61,3 +61,70 @@ One of my passions is perfumery, so I decided to dive into a database with perfu
 2. Imported the files to Power BI
 3. Assessed which informations were relevants to the analysis
 4. I made and ETL process to fix wrong data, like columns with missing brand, typos, etc
+
+## **Data Portfolio**
+### I made this project to demonstrate knowledge in using the tools throughout the entire data pipeline creation process, up to delivering a final report in the form of a dashboard.
+
+**Tools:** Python (Pandas, Google Cloud and native libraries), Google Cloud Storage, BigQuery, Power BI, GitHub
+
+**Processes:** ETL, Data Ingestion Automation, API Consumption, Dashboard Creation
+
+**Steps:**
+
+1. Download the database (via API)
+2. Process data using Python and automate the upload to the GCS bucket
+3. Create the dataset and tables in BigQuery
+4. Consume data from BigQuery using Power BI and create a dashboard
+
+# **Process Breakdown:**
+
+First, I installed the Kaggle library
+
+`pip install kaggle`
+
+To use the API, it's necessary to create a folder called `.kaggle` in your home directory and save the JSON with the key there.
+
+![image](https://github.com/user-attachments/assets/a0760f0c-68a3-445e-a27b-7eef648ee0fe)
+
+The official API documentation shows how to query datasets.
+
+![image](https://github.com/user-attachments/assets/258fc368-738b-422a-b9d6-cbf1e12eb6a2)
+
+For uploading to GCS, I installed the library:
+
+`pip install google-cloud-storage`
+
+I then created a simple Python script that transforms the table into a dataframe, saves a Parquet file, and automatically uploads it to a bucket in Google Storage. The choice of Parquet was due to its excellent format with very reduced size and the ability to maintain metadata.
+
+
+![image](https://github.com/user-attachments/assets/16599064-dcd2-42db-a3bb-22d9927611af)
+
+I uploaded another similar dataset, but in CSV, to show the size difference between the files.
+
+![image](https://github.com/user-attachments/assets/39f0d117-f534-4c97-87bc-a0703a18ddc3)
+
+Next, I created a dataset and a table with the data in BigQuery, reading from the previously created bucket.
+
+![image](https://github.com/user-attachments/assets/4935352e-2091-4bd5-933a-1508592a2bbc)
+
+I ran a basic query to validate the table.
+
+![image](https://github.com/user-attachments/assets/b19ea871-2451-45db-8979-0108045df878)
+
+After that, I made the connection in Power BI with BigQuery.
+
+![image](https://github.com/user-attachments/assets/645b0cb0-a5b4-4583-b56e-d6bc506bcdb7)
+
+
+I made some transformations in Power Query, such as merging the datasets and separating the location by city, state, and country.
+
+![image](https://github.com/user-attachments/assets/af8992c6-0d37-4e73-bff4-72499f7d7535)
+
+Finally, I created a Power BI dashboard with excellent performance, using only native visuals and following good design practices, such as a clean layout, few color variations, contrast, and consistency.
+
+![image](https://github.com/user-attachments/assets/608578c9-94dd-494b-89f3-6e74663b5809)
+
+Lastly, I committed the project files to GitHub for version control.
+
+![Uploading image.png…]()
+
