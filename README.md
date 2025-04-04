@@ -8,11 +8,9 @@ My medium articles about data analysis, business tips and other stuff: https://m
 **STAFF do Brasil • https://www.staffdobrasil.com.br/site/ • (70 employees) - Data Analyst; Valinhos, São Paulo, BR |
 Power BI, MS SQL Server, AWS (Nov 2023 - Now)**
 
-• Migrated all the dashboards of the company from GoodData to Power BI, giving many visual improvements and improved
-decision-making speed
-
-• Created a data warehouse on AWS, migrating part of the on-premisses database to cloud, improving security, reduced
-dashboard load times by 10% and reduced maintenance costs
+• Lead a data warehouse construction project from scratch to consolidate data from two different ERPs, dealing with data ingestion, security, and performance, reducing data processing time by 25%
+• Migrate all the dashboards of the company from GoodData to Power BI, rebuilding from scratch, giving many visual improvements to improve readability, and offering real-time and reliable data for better decision-making speed
+• Build and maintain Dashboards to support the whole company
 
 **Cogna Educação • https://www.kroton.com.br/ • (36,000 employees) - Data Analyst; Valinhos, São Paulo, BR |
 Python, Power BI, PostgreSQL, MS Excel, SAP (Sep 2022 - Nov 2023)**
