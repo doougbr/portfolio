@@ -50,6 +50,8 @@ Degree in Business Administration with a concentration in Marketing (2012 - 2016
 ![image](https://github.com/user-attachments/assets/4cdda19d-2640-4844-a8f9-278314dad42a)
 
 
+
+
 ## **Perfume Market Analysis for Data Portfolio**
 ### I made this project to demonstrate knowledge in using the tools throughout the entire data pipeline creation process, up to delivering a final report in the form of a dashboard.
 ### One of my passions is perfumery, so I decided to dive into a database with perfume listings sourced from eBay to analise it and take valuables insights from it
