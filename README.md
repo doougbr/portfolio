@@ -6,7 +6,7 @@ My medium articles about data analysis, business tips and other stuff: https://m
 # Professional Experience
 
 **STAFF do Brasil • https://www.staffdobrasil.com.br/site/ • (70 employees) - Data Analyst; Valinhos, São Paulo, BR |
-Power BI, MS SQL Server, AWS (Sep 2022 - Nov 2023)**
+Power BI, MS SQL Server, AWS (Nov 2023 - Now)**
 
 • Migrated all the dashboards of the company from GoodData to Power BI, giving many visual improvements and improved
 decision-making speed
@@ -115,5 +115,6 @@ Finally, I created a Power BI dashboard with excellent performance, using only n
 
 Lastly, I committed the project files to GitHub for version control.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/eb2b8d97-913d-4579-8191-f7b36170158f)
+
 
