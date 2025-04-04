@@ -50,20 +50,9 @@ Degree in Business Administration with a concentration in Marketing (2012 - 2016
 ![image](https://github.com/user-attachments/assets/4cdda19d-2640-4844-a8f9-278314dad42a)
 
 
-
-
-## Perfume Market Analysis
-### I made a dashboard using Power BI to analyse the e-commerce market of fragrances in 2024
-
-One of my passions is perfumery, so I decided to dive into a database with perfume listings sourced from eBay to analise it and take valuables insights from it
-
-1. Downloaded a csv database from Kaggle with usability 10.00
-2. Imported the files to Power BI
-3. Assessed which informations were relevants to the analysis
-4. I made and ETL process to fix wrong data, like columns with missing brand, typos, etc
-
-## **Data Portfolio**
+## **Perfume Market Analysis for Data Portfolio**
 ### I made this project to demonstrate knowledge in using the tools throughout the entire data pipeline creation process, up to delivering a final report in the form of a dashboard.
+### One of my passions is perfumery, so I decided to dive into a database with perfume listings sourced from eBay to analise it and take valuables insights from it
 
 **Tools:** Python (Pandas, Google Cloud and native libraries), Google Cloud Storage, BigQuery, Power BI, GitHub
 
