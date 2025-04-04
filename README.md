@@ -117,6 +117,7 @@ Finally, I created a Power BI dashboard with excellent performance, using only n
 
 Lastly, I committed the project files to GitHub for version control.
 
-![image](https://github.com/user-attachments/assets/eb2b8d97-913d-4579-8191-f7b36170158f)
+![image](https://github.com/user-attachments/assets/a0861b73-5c2d-47d0-964c-7fc7dac63490)
+
 
 
