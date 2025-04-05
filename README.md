@@ -121,3 +121,31 @@ Lastly, I committed the project files to GitHub for version control.
 
 
 
+## **Insights**
+
+Regarding the initial questions, this analysis provided some answers to the questions that were originally asked:
+
+- **Q:** What are the best-selling perfumes, brands, types, and gender categories?
+    
+    **A:** The best-selling perfume was **CK One**. The brand was **Calvin Klein**, which had more than double the sales of the third place, **Davidoff**.
+    
+    In terms of type, **Eau de Toilette** dominated, with almost 3x more sales than **Eau de Parfum**, and **men’s fragrances** outsold women’s.
+    
+- **Q:** Which brands have the highest added value?
+    
+    **A:** **Claude Marsal** perfumes have the highest average ticket price, but they are rarely sold.
+    
+- **Q:** What was the average amount spent on perfumes during this period?
+    
+    **A:** The average amount was **$42.61**, with **men spending slightly more on average than women**.
+    
+
+---
+
+For sales on **eBay targeting the U.S. market** (which represents the majority of the dataset), the recommendation would be to focus on **Versace perfumes for men**, which have a very high sales volume and a relatively higher average ticket than Calvin Klein.
+
+Sales of **niche brands** are much lower than **designer brands**, which suggests that consumers looking for niche perfumes probably do not use eBay as their primary shopping platform. Among the 10 best-selling brands, only **Armaf** is considered niche.
+
+---
+
+A potential research suggestion based on this initial analysis could be to **investigate how many sellers are offering each brand and/or perfume**, in order to perform a **competition analysis**.
